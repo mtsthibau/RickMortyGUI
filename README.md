@@ -13,11 +13,12 @@ The GUI was built to run in a React Project ...
 Rick and Morty is created by `Justin Roiland` and `Dan Harmon` for `Adult Swim`. 
 The data and images are used without claim of ownership and belong to their respective owners.
 
-This API [Rick & Morty API](https://rickandmortyapi.com/)  is open source and uses a BSD license.
+This API [Rick & Morty API](https://rickandmortyapi.com/) is open source and uses a BSD license. 
+By [Axel Fuhrmann](https://github.com/afuh)
 
-The GUI is open source (GNU) 
 
-by [Matheus Thibau](https://github.com/mtsthibau)
+The Rick & Morty GUI is open source (GNU). 
+By [Matheus Thibau](https://github.com/mtsthibau)
 
 
 
